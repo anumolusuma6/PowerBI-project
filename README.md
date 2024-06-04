@@ -1,1 +1,1 @@
-# Power BI Project End to End Healthcare Dashboard Development  
+# Power BI Project: Healthcare Dashboard Development  
